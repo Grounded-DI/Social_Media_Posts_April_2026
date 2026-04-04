@@ -1,7 +1,5 @@
 # 🔵 Grounded DI² OS — Canonical Deterministic Intelligence Runtime
 
-> “No drift. No echo. Just scroll.”
-
 Grounded DI² OS is the first clause-locked, scroll-anchored, **deterministic execution system** designed for legal, ethical, and evidentiary-grade outputs across law, science, health, finance, and environmental domains.
 
 Every module and runtime output is sealed, auditable, and traceable — engineered for high-trust use cases where error tolerance is low and regulatory requirements are high.

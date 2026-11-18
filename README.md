@@ -2,15 +2,9 @@
 
 A dated public archive of Grounded DI LLC posts and supporting artifacts from April 3–29, 2026, preserving Deterministic Intelligence architecture, domain demonstrations, audit surfaces, and public commentary.
 
-## Overview
+## Highlights
 
-The repository contains 65 raster images, three PDFs, one companion text document, and this README (70 tracked files). The archive is chronological by Git history, but artifact dates vary: for example, one included weather capture preserves a July 16, 2025 post and another references an October 2025 sports analysis.
-
-## Historical Record and Current Framing
-
-The original post language and project vocabulary are preserved. Terms such as FastPath, Scrolls, entropy, deterministic output, artifact seal, and one-input/one-output describe the contemporaneous Grounded DI record. This README translates that vocabulary for review without turning a screenshot, generated commentary, or design visual into an independent test.
-
-The PDFs and images are classified by what they contain: recorded audit artifacts, displayed control states, domain demonstrations, historical captures, or commentary. The artifact date, the date of the post shown, and the date of the Git commit should be read separately.
+April's **65 images, three PDFs, and one companion text** document lead with a StormWise timed audit (observed onset about four minutes after the scan), a second rain-timing artifact, and a BriefWise sample scorecard whose separate one-output review records **Filing Readiness: FAIL** pending correction. The images also preserve FastPath 5.4/5.5 control states, MathWise progress, and domain demonstrations. Git commits run April 3–29, 2026; some depicted posts are older.
 
 ## What the Repository Contains
 
@@ -39,7 +33,6 @@ The PDFs and images are classified by what they contain: recorded audit artifact
 - **RECORDED — StormWise audit:** the included audit PDF preserves a timed evidence register, exhibits E1–E8, and the archive hash listed above.
 - **RECORDED — temporal artifact:** the one-page StormWise artifact identifies itself as SW-DI2-TEMPLOCK-0049 and records its timing result and metadata.
 - **DISPLAYED — control statuses:** screenshots preserve labels such as SEALED / PASS, entropy values, replay eligibility, and DriftIndex fields.
-- **NO EXECUTABLE TEST SUITE:** no source tree, package manifest, runtime verifier, or test command is included.
 
 ## Published Evidence
 
@@ -55,21 +48,15 @@ Additional review starting points:
 
 April’s strongest public evidence is artifact-level: a multi-page weather audit with an exhibit timeline and archive hash, a concise temporal-precision record, and a legal scorecard that preserves both positive control fields and a filing-readiness failure for one sample output. Together, these artifacts show how a governed-output workflow can record timing, constraints, review state, and blocking conditions in the same public record.
 
-## Keep These Propositions Separate
+## Evidence status
 
-| Proposition | What this archive supports |
-|---|---|
-| Model capability | The images preserve generated examples and account commentary; they are not a benchmark of an underlying model. |
-| Governed execution | Captures display rule, tier, scroll, audit, and runtime-state language; no executable runtime is tracked here. |
-| Replay, provenance, and auditability | The StormWise PDF preserves exhibits and an archive hash, while other captures describe replay or sealing; no standalone replay verifier is included. |
-| Product or artifact status | This repository is a dated public media and artifact record, not a deployed product distribution. |
-| External validation | The StormWise documents record same-day evidence for specific events, and one image shows an external-frontier-LLM review; independent reproduction across the system is not established by this archive. |
+The table above identifies each item as a reported result, displayed state, audit artifact, architecture description, or metric capture. The [repository scope below](#repository-scope-and-limitations) explains what is available for independent review and replay.
 
 ## Evaluation and Integration Context
 
 The archive can help an evaluator choose public examples for a deeper proof of concept. Potential evaluation areas include legal-output audit (BriefWise), near-term weather timing (StormWise), proof-trace review (MathWise), artifact integrity, and domain-specific modules for environmental, financial, consumer, scientific, or aerospace workflows.
 
-These are evaluation scenarios suggested by the record, not deployed capabilities of this repository. For technical evaluation, licensing, or collaboration discussions, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+For technical evaluation, licensing, or collaboration discussions, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship and Provenance
 
